@@ -24,10 +24,6 @@ To write the C# program to print Pascal's triangle.
 
 
 ## Program:
-```
-Name : G.Jayanth.
-Reg no : 212221230030.
-```
 ```c#
 using System;
 public class Pattern

@@ -7,24 +7,19 @@ To write the C# program to print Pascal's triangle.
 
 ## Algorithm:
 
-### Step1:
-Initialize the neccessary attributes.
+<b>Step1:</b> Initialize the neccessary attributes.
 
 
-### Step2:
-Get the no. of rows from the user.
+<b>Step2:</b> Get the no. of rows from the user.
 
 
-### Step3:
-Using for loop print the rows, columns and spaces at required places.
+<b>Step3:</b> Using for loop print the rows, columns and spaces at required places.
 
 
-### Step4:
-Apply if condition to print 1.
+<b>Step4:</b> Apply if condition to print 1.
 
 
-### Step5:
-If the condition fails, print the number using the formula. value=value*(i-j+1)/j.
+<b>Step5:</b> If the condition fails, print the number using the formula. value=value*(i-j+1)/j.
 
 
 
